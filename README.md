@@ -24,8 +24,8 @@ This is a simple QR code card component that displays a QR image, a heading, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Link](https://lovely-lolly-b63e93.netlify.app/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/simple-landing-page-using-html-and-css-wARgClm6_Q)
+- Live Site URL: [Live SIte URL](https://lovely-lolly-b63e93.netlify.app/)
 
 ## My process
 
